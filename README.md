@@ -233,3 +233,4 @@ end
 ```
 kitchen verify default-centos-66
 ```
+[http://33.33.33.10](http://33.33.33.10)
